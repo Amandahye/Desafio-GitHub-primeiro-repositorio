@@ -1,0 +1,28 @@
+Passos para aprender lógica de programação
+Depois de organizar a base matemática, o próximo passo é compreender os principais temas abordados no estudo de lógica de programação.
+
+Algoritmos
+Como já informado, algoritmos são um conjunto de passos definidos para gerar um resultado. Aprender o conceito de instruções simples é a primeira etapa para compreender lógica de programação. No seu dia a dia você já aplicou um algoritmo e não percebeu. Como exemplo temos a instrução “escovar os dentes”:
+
+Pegar escova;
+Ligar torneira
+Limpar escova;
+Fechar torneira;
+Colocar pasta na escova;
+Escovar os dentes;
+Ligar torneira;
+Limpar escova;
+Fechar torneira;
+Guardar escova.
+Nesta tarefa tivemos elementos variáveis, contantes e alguns passos repetidos. A quantidade de água que saiu da torneira é uma variável, a escova é uma constante e repetimos os passos: ligar torneira, limpar escova e fechar torneira. Em lógica de programação é parecido, utilizamos variáveis, constantes e laços de repetição para executar várias tarefas.
+
+Linguagem de programação
+Depois de entender como funcionam os algoritmos e os princípios básicos da programação, é hora de por em pratica fazendo um programa de verdade, para isto será preciso aprender a utilizar alguma linguagem de programação. Uma que vem ganhando destaque no mundo é a Python.
+
+Ela foi criada na década de 90 e pode ser utilizada para fazer aplicações na internet, games, aplicativos para windows, analise de dados e big data.
+
+Ela possui sintaxe muito simples e é bastante utilizada no aprendizado de crianças. Para aqueles que gostam de jogar Minecraft, é possível criar scripts que interagem com o jogo e fazem diversas coisas em segundos as quais um jogador levaria horas no modo criativo.
+
+Existem diversos cursos gratuitos de Python na Web, a comunidade é muito forte e ampla, sempre são lançadas atualizações das ferramentas o que torna o ambiente de desenvolvimento muito versátil e simples de ser operado.
+
+Uma outra linguagem que se destaca bastante nos tempos atuais é o javascript. Ela é uma linguagem capaz de executar funções que exibem resultados em qualquer navegador. Existem milhares de aplicações rodando em javascript na Web, ela está entre as linguagens de maior performance no mercado, também possui uma comunidade imensa e a maioria das soluções que você precisar podem ser encontradas em uma pesquisa no Google. A curva de aprendizado é muito menor e assim como o Python, existem ferramentas que auxiliam bastante o desenvolvimento.
